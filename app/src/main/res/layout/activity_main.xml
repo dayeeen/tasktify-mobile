@@ -86,8 +86,8 @@
             android:paddingTop="1dp"
             android:text="Add Task"
             android:textAlignment="center"
-            android:textColor="@color/colorPrimaryDark"
-            android:textSize="20sp"/>
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />
 
 
     </LinearLayout>
