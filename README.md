@@ -8,6 +8,9 @@ Welcome to Tasktify Mobile - Your Smart Task Management Solution on the Go!
 
 Overview:
 
+- [Pitch Deck Video](https://youtu.be/ANhvFcKl5nU)
+- [Tasktify on Google Play](https://play.google.com/store/apps/details?id=com.baihaqialfan.DoItActifity&pcampaignid=web_share)
+
 Tasktify Mobile is designed to help you plan, organize, and complete tasks effortlessly. While the app is available on Google Play, please note that some features are still in development as we continuously strive to enhance your task management experience.
 
 Key Features:
@@ -24,7 +27,7 @@ Notifications and Reminders:
 
 How to Use:
 
-- Visit Google Play and search Tasktify.
+- Visit Google Play and search Tasktify or You can simply click on the link above at the overview section.
 - Download and Install
 
 Explore Available Features:
